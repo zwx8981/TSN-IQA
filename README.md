@@ -3,9 +3,13 @@ The codebase of  [Task-specific normalization for continual learning of blind im
 
 # Requirement
 torch 1.8+
+
 torchvision
+
 Python 3
+
 scikit-learn
+
 scipy
 
 # Usage
