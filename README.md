@@ -1,4 +1,4 @@
-# Task-specific normalization for continual learning of blind image quality models
+# After nearly two and a half years of peer review, our work has finally been accepted by IEEE T-IP !
 The codebase of  [Task-specific normalization for continual learning of blind image quality models](https://arxiv.org/pdf/2107.13429.pdf)
 
 # Requirement
