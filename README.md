@@ -25,10 +25,10 @@ Should you find this repo useful to your research, we sincerely appreciate it if
   title={Task-specific normalization for continual learning of blind image quality models},
   author={Zhang, Weixia and Ma, Kede and Zhai, Guangtao and Yang, Xiaokang},
   journal={IEEE Transactions on Image Processing},
-  month={},
-  volume={},
+  month={Mar.},
+  volume={33},
   issue={},
-  pages={},
-  year={2024, to appear}
+  pages={1898 - 1910},
+  year={2024}
 }
 ```
